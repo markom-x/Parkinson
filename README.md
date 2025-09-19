@@ -1,1 +1,1 @@
-My first classificator 
+My first classifier
